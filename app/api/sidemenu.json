@@ -1,0 +1,116 @@
+{
+  "menu": [
+    {
+      "navHeading": "General",
+      "menuLevel1": [
+        {
+          "navHead": "Home",
+          "icoClass": "fa-home",
+          "menuLevel2": [
+            "Dashboard1",
+            "Dashboard2",
+            "Dashboard3"
+          ]
+        },
+        {
+          "navHead": "Forms",
+           "icoClass": "fa-edit",
+          "menuLevel2": [
+            "General Form",
+            "Advanced Component",
+            "Form Validation",
+            "Form Wizard",
+            "Form Upload",
+            "Form Buttons"
+          ]
+        },
+        {
+          "navHead": "UI Elements",
+           "icoClass": "fa-desktop",
+          "menuLevel2": [
+            "General Elements",
+            "Media Gallery",
+            "Typography",
+            "Icons",
+            "Glyphicons",
+            "Widgets",
+            "Invoice",
+            "Inbox",
+            "Calendar"
+          ]
+        },
+        {
+          "navHead": "Tables",
+           "icoClass": "fa-table",
+          "menuLevel2": [
+            "Tables",
+            "Table Dynamic"
+          ]
+        },
+        {
+          "navHead": "Data Presentaion",
+           "icoClass": "fa-bar-chart-o",
+          "menuLevel2": [
+            "Chart JS",
+            "Chart JS2",
+            "Moris JS",
+            "ECharts",
+            "Other Charts"
+          ]
+        },
+        {
+          "navHead": "Layouts",
+           "icoClass": "fa-clone",
+          "menuLevel2": [
+            "Fixed Sidebar",
+            "Fixed Footer"
+          ]
+        }
+      ]
+    },
+    {
+      "navHeading": "Live On",
+      "menuLevel1": [
+        {
+          "navHead": "Additional Pages",
+           "icoClass": "fa-bug",
+          "menuLevel2": [
+            "E-commerce",
+            "Projects",
+            "Project Detail",
+            "Contacts",
+            "Profile"
+          ]
+        },
+        {
+          "navHead": "Extra",
+           "icoClass": "fa-windows",
+          "menuLevel2": [
+            "403 Error",
+            "404 Error",
+            "500 Error",
+            "Plain Page",
+            "Login Page",
+            "Pricing Tables"
+          ]
+        },
+        {
+          "navHead": "Multilevel Menu",
+           "icoClass": "fa-sitemap",
+          "menuLevel2": [
+            "Level One",
+            {
+                "navHead" : "Level One",
+                "menuLevel2" : ["Level Two", "Level Two", "Level Two"]
+            },
+            "Level One"
+          ]
+        },
+        {
+          "navHead": "Landing Page",
+           "icoClass": "fa-laptop"
+        }
+      ]
+    }
+  ]
+}

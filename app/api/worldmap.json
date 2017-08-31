@@ -1,0 +1,22 @@
+{
+   "mapCountries": [
+        {
+            "code": "AF",
+            "value": 53,
+            "name": "Afghanistan"
+        },{
+            "code": "AL",
+            "value": 117,
+            "name": "Albania"
+        },{
+            "code": "DZ",
+            "value": 15,
+            "name": "Algeria"
+        },{
+            "code": "US",
+            "value": 43,
+            "name": "United States"
+        }  
+    ]
+}
+

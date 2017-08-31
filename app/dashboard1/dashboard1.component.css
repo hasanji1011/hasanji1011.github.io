@@ -1,0 +1,6 @@
+.temperature > span{
+    cursor: pointer;
+}
+.active{
+    font-weight:bold;
+}

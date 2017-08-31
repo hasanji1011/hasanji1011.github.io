@@ -1,0 +1,12 @@
+/* .block {
+      overflow: hidden;
+      -webkit-transition: height .5s;
+      transition: height .5s;
+    } */
+
+    .nav.child_menu {
+      display: none;
+  }
+  .menu_section.active:first-child .nav.side-menu li:first-child .nav.child_menu{
+    display: block;
+  }
